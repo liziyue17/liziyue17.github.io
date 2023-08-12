@@ -28,13 +28,13 @@ Tsinghua University
   * CS    Big Data Practice Lesson
 
 * Spring 2022
-  * MS&E  Advanced Applied Mathematical Statistics
-  * MS&E  Advanced Operations Research
-  * MS&E  Empirical Methods in Management Science
-  * MS&E  IT & Organization
+  * MATH  Advanced Applied Mathematical Statistics
   * CS    Big Data Technology: Applications with Practice
   * CS    Big Data Analytics
   * CS    Deep Learning
+  * MS&E  Advanced Operations Research
+  * MS&E  Empirical Methods in Management Science
+  * MS&E  IT & Organization
 
 * Fall 2021
   * MATH  Applied Stochastic Processes
@@ -107,7 +107,6 @@ Tsinghua University
   * CS    Computer Programming Language
   * ECON  Principles of Economics(2)
   * ECON  Accounting Principles
-  * PSYCH  Introductory Psychology
 
 * Fall 2017
   * MATH  Calculus A(1)
