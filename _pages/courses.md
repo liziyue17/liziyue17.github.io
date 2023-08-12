@@ -25,92 +25,91 @@ UC Berkeley
 Tsinghua University
 ======
 * Summer 2022
-  * CS    Big Data Practice Lesson
+  * CS &emsp;   Big Data Practice Lesson
 
 * Spring 2022
-  * MATH  Advanced Applied Mathematical Statistics
-  * CS    Big Data Technology: Applications with Practice
-  * CS    Big Data Analytics
-  * CS    Deep Learning
-  * MS&E  Advanced Operations Research
-  * MS&E  Empirical Methods in Management Science
-  * MS&E  IT & Organization
+  * MATH &emsp; Advanced Applied Mathematical Statistics
+  * CS  &emsp;  Big Data Technology: Applications with Practice
+  * CS &emsp;   Big Data Analytics
+  * CS &emsp;   Deep Learning
+  * MS&E&emsp;  Advanced Operations Research
+  * MS&E&emsp;  Empirical Methods in Management Science
+  * MS&E&emsp;  IT & Organization
 
 * Fall 2021
-  * MATH  Applied Stochastic Processes
-  * IEOR  Game Theory and Behavioral Decision Making
-  * MS&E  Dynamic Programming
-  * MS&E  Decision Theory
-  * MS&E  Production and operation Management
-  * MS&E  Supply Chain Management
-  * MS&E  Advances in Information Systems
-  * MS&E  Business Intelligence
-  * ECON  Advanced Econometrics
+  * MATH &emsp; Applied Stochastic Processes
+  * IEOR &emsp; Game Theory and Behavioral Decision Making
+  * MS&E&emsp;  Dynamic Programming
+  * MS&E&emsp;  Decision Theory
+  * MS&E &emsp; Production and operation Management
+  * MS&E&emsp;  Supply Chain Management
+  * MS&E &emsp; Advances in Information Systems
+  * MS&E&emsp;  Business Intelligence
+  * ECON&emsp;  Advanced Econometrics
 
 * Spring 2021
-  * CS    Big-data in Education and Learning Analytics
-  * IEOR  Stochatic Optimization
+  * CS &emsp;   Big-data in Education and Learning Analytics
+  * IEOR &emsp; Stochatic Optimization
 
 * Fall 2020
-  * STAT  Statistical Computing
-  * CS    Machine Learning
-  * EE    Convex Optimization
-  * MS&E  Management Systems Simulation
-  * ECON  Foundations for Financial Economics
+  * STAT  &emsp;Statistical Computing
+  * CS  &emsp;  Machine Learning
+  * EE  &emsp;  Convex Optimization
+  * MS&E &emsp; Management Systems Simulation
+  * ECON&emsp;  Foundations for Financial Economics
 
 * Spring 2020
-  * STAT  Applied Time Series Analysis
-  * CS Artificial Intelligence
-  * MS&E Business Data Analysis
-  * MS&E Production and Operation Management
-  * MS&E System Analysis and Design
-  * ECON Econometrics
+  * STAT &emsp; Applied Time Series Analysis
+  * CS&emsp; Artificial Intelligence
+  * MS&E &emsp;Business Data Analysis
+  * MS&E &emsp;Production and Operation Management
+  * MS&E &emsp;System Analysis and Design
+  * ECON &emsp;Econometrics
 
 * Fall 2019
-  * STAT  Introduction to Causal Inference
-  * STAT  Nonparametric Statistics
-  * MATH Advanced linear Algebra    
-  * MATH Mathematical Analysis     
-  * CS Computer Networks 
+  * STAT &emsp; Introduction to Causal Inference
+  * STAT &emsp; Nonparametric Statistics
+  * MATH&emsp; Advanced linear Algebra    
+  * MATH&emsp; Mathematical Analysis     
+  * CS &emsp;Computer Networks 
 
 * Summer 2019
-  * CS  The Practice of C++ Programming
-  * CS  Application of Software Design and Practice (MATLAB)
+  * CS  &emsp;The Practice of C++ Programming
+  * CS&emsp;  Application of Software Design and Practice (MATLAB)
 
 * Spring 2019
-  * STAT  Multivariate Statistical Analysis
-  * STAT  Linear Regression Analysis
-  * MATH Introduction to Complex Analysis
-  * MATH Linear Algebra(2)
-  * MS&E Dynamic Systems Analysis and Control
-  * MS&E Operational Research
-  * MS&E Management Information Systems
-  * CS Computer Systems Architecture
-  * CS The Principle and Application of Database
-  * LAB  Exploration to Scientific Research of Lab
-
+  * STAT &emsp; Multivariate Statistical Analysis
+  * STAT &emsp; Linear Regression Analysis
+  * MATH &emsp;Introduction to Complex Analysis
+  * MATH&emsp; Linear Algebra(2)
+  * MS&E&emsp; Dynamic Systems Analysis and Control
+  * MS&E&emsp; Operational Research
+  * MS&E&emsp;Management Information Systems
+  * CS &emsp;Computer Systems Architecture
+  * CS &emsp;The Principle and Application of Database
+  * LAB &emsp; Exploration to Scientific Research of Lab
 
 * Fall 2018
-  * STAT  Statistical Inference
-  * STAT  Elementary Probability Theory
-  * MATH Probability and Mathematical Statistics
-  * PHYSICS Physics for Scientists and Engineers
-  * CS Data Structures and Algorithms
-  * LIB Literature Searching and Utilization(Sci-Tech)  
+  * STAT &emsp; Statistical Inference
+  * STAT&emsp;  Elementary Probability Theory
+  * MATH&emsp; Probability and Mathematical Statistics
+  * PHYSICS&emsp; Physics for Scientists and Engineers
+  * CS  &emsp;Data Structures and Algorithms
+  * LIB &emsp; Literature Searching and Utilization(Sci-Tech)  
 
 * Summer 2018
-  * MATH  Introduction of Mathematica and Its Applications
-  * CS    Design, Programming and Practice for Mobile Intelligent Robot
+  * MATH &emsp; Introduction of Mathematica and Its Applications
+  * CS  &emsp;  Design, Programming and Practice for Mobile Intelligent Robot
 
 * Spring 2018
-  * MATH  Calculus A(2)
-  * CS    Computer Programming Language
-  * ECON  Principles of Economics(2)
-  * ECON  Accounting Principles
+  * MATH &emsp; Calculus A(2)
+  * CS &emsp;   Computer Programming Language
+  * ECON &emsp; Principles of Economics(2)
+  * ECON &emsp; Accounting Principles
 
 * Fall 2017
-  * MATH  Calculus A(1)
-  * MATH  Linear Algebra(1)
-  * CS    Computer Languages and Programming
-  * ECON  Principles of Economics(1)
-  * MS&E  Introduction of Information Management
+  * MATH &emsp; Calculus A(1)
+  * MATH &emsp; Linear Algebra(1)
+  * CS  &emsp;  Computer Languages and Programming
+  * ECON &emsp; Principles of Economics(1)
+  * MS&E &emsp; Introduction of Information Management
