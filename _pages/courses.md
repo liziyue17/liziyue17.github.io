@@ -71,12 +71,23 @@ Tsinghua University
 * Spring 2019
   * STAT &nbsp Multivariate Statistical Analysis
   * STAT &nbsp Linear Regression Analysis
-  * 
+  * MATH Introduction to Complex Analysis
+  * MATH Linear Algebra(2)
+  * MS&E Computer Systems Architecture
+  * MS&E Dynamic Systems Analysis and Control
+  * MS&E Operational Research
+  * MS&E The Principle and Application of Database
+  * MS&E Management Information Systems
+  * LAB  Exploration to Scientific Research of Lab
+
 
 * Fall 2018
   * STAT &nbsp Statistical Inference
   * STAT &nbsp Elementary Probability Theory
-  *     
+  * MATH Probability and Mathematical Statistics
+  * CS Data Structures and Algorithms
+  * PHYSICS Physics for Scientists and Engineers
+  * LIB Literature Searching and Utilization(Sci-Tech)  
 
 * Summer 2018
   * MATH &nbsp Introduction of Mathematica and Its Applications
