@@ -113,3 +113,8 @@ Tsinghua University
   * CS  &emsp;  Computer Languages and Programming
   * ECON &emsp; Principles of Economics(1)
   * MS&E &emsp; Introduction of Information Management
+
+Coursera
+======
+* Summer 2020
+  * Bayesian Statistics: Techniques and Models
