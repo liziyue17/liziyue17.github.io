@@ -11,8 +11,8 @@ UC Berkeley
 ======
 * Fall 2023
   * CEE 251   Transportation Operations
-  *
-  *
+  * TBD
+  * TBD
 
 * Spring 2023
   * IEOR 255  Frontiers in Revenue Management
