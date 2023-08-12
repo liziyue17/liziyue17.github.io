@@ -24,5 +24,7 @@ Competence
 * Programming
   * Python, R, MATLAB, Mathematica
   * Gurobi, CVX
+  * Markdown, Latex
+  * (Rudimentary) C, Java, C++, html
 * Hobby
   * Traveling, Hiking
