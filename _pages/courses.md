@@ -78,11 +78,20 @@ Tsinghua University
   * STAT Elementary Probability Theory
   *     
 
+* Summer 2018
+  * MATH Introduction of Mathematica and Its Applications
+  * CS Design, Programming and Practice for Mobile Intelligent Robot
+
 * Spring 2018
-  * 
-  * 
+  * MATH Calculus A(2)
+  * CS Computer Programming Language
+  * ECON Principles of Economics(2)
+  * ECON Accounting Principles
+  * PSYCH Introductory Psychology
 
 * Fall 2017
-  * 
-  * 
-  *     
+  * MATH Calculus A(1)
+  * MATH Linear Algebra(1)
+  * CS Computer Languages and Programming
+  * ECON Principles of Economics(1)
+  * MS&E Introduction of Information Management
