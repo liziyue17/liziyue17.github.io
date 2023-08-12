@@ -25,27 +25,27 @@ UC Berkeley
 Tsinghua University
 ======
 * Summer 2022
-  * CS    Big Data Practice Lesson
+  * CS  &nbsp  Big Data Practice Lesson
 
 * Spring 2022
-  * MS&E  Advanced Applied Mathematical Statistics
-  * MS&E  Advanced Operations Research
-  * MS&E  Empirical Methods in Management Science
-  * MS&E  IT & Organization
-  * CS    Big Data Technology: Applications with Practice
-  * CS    Big Data Analytics
-  * CS    Deep Learning
+  * MS&E &nbsp Advanced Applied Mathematical Statistics
+  * MS&E &nbsp Advanced Operations Research
+  * MS&E &nbsp Empirical Methods in Management Science
+  * MS&E &nbsp IT & Organization
+  * CS  &nbsp  Big Data Technology: Applications with Practice
+  * CS  &nbsp  Big Data Analytics
+  * CS  &nbsp  Deep Learning
 
 * Fall 2021
-  * MATH  Applied Stochastic Processes
-  * IEOR  Game Theory and Behavioral Decision Making
-  * MS&E  Dynamic Programming
-  * MS&E  Decision Theory
-  * MS&E  Production and operation Management
-  * MS&E  Supply Chain Management
-  * MS&E  Advances in Information Systems
-  * MS&E  Business Intelligence
-  * ECON  Advanced Econometrics
+  * MATH &nbsp Applied Stochastic Processes
+  * IEOR &nbsp Game Theory and Behavioral Decision Making
+  * MS&E &nbsp Dynamic Programming
+  * MS&E &nbsp Decision Theory
+  * MS&E &nbsp Production and operation Management
+  * MS&E &nbsp Supply Chain Management
+  * MS&E &nbsp Advances in Information Systems
+  * MS&E &nbsp Business Intelligence
+  * ECON &nbsp Advanced Econometrics
 
 * Spring 2021
   * 
@@ -53,45 +53,45 @@ Tsinghua University
   * 
 
 * Fall 2020
-  * STAT  Statistical Computing
-  * CS    Machine Learning
-  * EE    Convex Optimization
+  * STAT &nbsp Statistical Computing
+  * CS &nbsp   Machine Learning
+  * EE  &nbsp  Convex Optimization
   * 
 
 * Spring 2020
-  * STAT  Applied Time Series Analysis
+  * STAT &nbsp Applied Time Series Analysis
   * 
   * 
 
 * Fall 2019
-  * STAT  Introduction to Causal Inference
-  * STAT  Nonparametric Statistics
+  * STAT &nbsp Introduction to Causal Inference
+  * STAT &nbsp Nonparametric Statistics
   *     
 
 * Spring 2019
-  * STAT  Multivariate Statistical Analysis
-  * STAT  Linear Regression Analysis
+  * STAT &nbsp Multivariate Statistical Analysis
+  * STAT &nbsp Linear Regression Analysis
   * 
 
 * Fall 2018
-  * STAT  Statistical Inference
-  * STAT  Elementary Probability Theory
+  * STAT &nbsp Statistical Inference
+  * STAT &nbsp Elementary Probability Theory
   *     
 
 * Summer 2018
-  * MATH  Introduction of Mathematica and Its Applications
-  * CS    Design, Programming and Practice for Mobile Intelligent Robot
+  * MATH &nbsp Introduction of Mathematica and Its Applications
+  * CS  &nbsp  Design, Programming and Practice for Mobile Intelligent Robot
 
 * Spring 2018
-  * MATH  Calculus A(2)
-  * CS    Computer Programming Language
-  * ECON  Principles of Economics(2)
-  * ECON  Accounting Principles
-  * PSYCH Introductory Psychology
+  * MATH &nbsp Calculus A(2)
+  * CS  &nbsp  Computer Programming Language
+  * ECON &nbsp Principles of Economics(2)
+  * ECON &nbsp Accounting Principles
+  * PSYCH &nbsp Introductory Psychology
 
 * Fall 2017
-  * MATH  Calculus A(1)
-  * MATH  Linear Algebra(1)
-  * CS    Computer Languages and Programming
-  * ECON  Principles of Economics(1)
-  * MS&E  Introduction of Information Management
+  * MATH &nbsp Calculus A(1)
+  * MATH &nbsp Linear Algebra(1)
+  * CS  &nbsp  Computer Languages and Programming
+  * ECON &nbsp Principles of Economics(1)
+  * MS&E &nbsp Introduction of Information Management
