@@ -11,49 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Student, UC Berkeley, Jan.2023 - now
+* Ph.D in Operations Management, Tsinghua University, Sept.2021 - now
+* Summer Research, NC State University, Jan.2021 - Feb.2021
+* Bachelor (minor) in Statistics, Tsinghua University, Sept.2018 - June.2021 
+* Bachelor in Information Management and Information Systems, Tsinghua University, Sept.2017 - June.2021 
   
-Skills
+Competence
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Research
-======
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages
+  * Chinese(Native), English(Fluent)
+* Programming
+  * Python, R, MATLAB, Mathematica
+  * Gurobi, CVX
+* Hobby
+  * Traveling, Hiking
