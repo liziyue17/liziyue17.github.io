@@ -7,29 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching 1
+<!---Teaching 1-->
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Probability and Statistics (Course ID 10420803), TA,  Tsinghua University, Sept.2022 - Jan.2023
+* Statistics (Course ID 40511664), TA, Tsinghua University, Feb.2022 - Jul.2022
+* Probability and Statistics (Course ID 10420803) TA, Tsinghua University, Feb.2022 - Jul.2022
+* Probability and Mathematical Statistics (Course ID 10510134) TA, Tsinghua University, Sept.2019 - Jan.2020
