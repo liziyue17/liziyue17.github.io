@@ -10,15 +10,15 @@ author_profile: true
 UC Berkeley
 ======
 * Fall 2023
-  * CEE 251   Transportation Operations
-  * TBD
-  * TBD
+  * CEE 251 &emsp; Transportation Operations
+  * TBD &emsp;
+  * TBD &emsp;
 
 * Spring 2023
-  * IEOR 255  Frontiers in Revenue Management
-  * STAT 210B Theoretical Statistics
-  * STAT 278B Statistics Research Seminar
-  * CS 294    Experimental Design for Machine Learning on Multimedia Data
+  * IEOR 255 &emsp; Frontiers in Revenue Management
+  * STAT 210B &emsp; Theoretical Statistics
+  * STAT 278B &emsp; Statistics Research Seminar
+  * CS 294 &emsp; Experimental Design for Machine Learning on Multimedia Data
 
 
 
