@@ -13,6 +13,7 @@ Education
 ======
 * Visiting Student, UC Berkeley, Jan.2023 - now
 * Ph.D in Operations Management, Tsinghua University, Sept.2021 - now
+* Summer School (Application and innovation of data science), Fudan University, Jul.2021
 * Summer Research, NC State University, Jan.2021 - Feb.2021
 * Bachelor (minor) in Statistics, Tsinghua University, Sept.2018 - June.2021 
 * Bachelor in Information Management and Information Systems, Tsinghua University, Sept.2017 - June.2021 
