@@ -25,84 +25,93 @@ UC Berkeley
 Tsinghua University
 ======
 * Summer 2022
-  * CS  &nbsp  Big Data Practice Lesson
+  * CS    Big Data Practice Lesson
 
 * Spring 2022
-  * MS&E &nbsp Advanced Applied Mathematical Statistics
-  * MS&E &nbsp Advanced Operations Research
-  * MS&E &nbsp Empirical Methods in Management Science
-  * MS&E &nbsp IT & Organization
-  * CS  &nbsp  Big Data Technology: Applications with Practice
-  * CS  &nbsp  Big Data Analytics
-  * CS  &nbsp  Deep Learning
+  * MS&E  Advanced Applied Mathematical Statistics
+  * MS&E  Advanced Operations Research
+  * MS&E  Empirical Methods in Management Science
+  * MS&E  IT & Organization
+  * CS    Big Data Technology: Applications with Practice
+  * CS    Big Data Analytics
+  * CS    Deep Learning
 
 * Fall 2021
-  * MATH &nbsp Applied Stochastic Processes
-  * IEOR &nbsp Game Theory and Behavioral Decision Making
-  * MS&E &nbsp Dynamic Programming
-  * MS&E &nbsp Decision Theory
-  * MS&E &nbsp Production and operation Management
-  * MS&E &nbsp Supply Chain Management
-  * MS&E &nbsp Advances in Information Systems
-  * MS&E &nbsp Business Intelligence
-  * ECON &nbsp Advanced Econometrics
+  * MATH  Applied Stochastic Processes
+  * IEOR  Game Theory and Behavioral Decision Making
+  * MS&E  Dynamic Programming
+  * MS&E  Decision Theory
+  * MS&E  Production and operation Management
+  * MS&E  Supply Chain Management
+  * MS&E  Advances in Information Systems
+  * MS&E  Business Intelligence
+  * ECON  Advanced Econometrics
 
 * Spring 2021
-  * 
-  * 
-  * 
+  * CS    Big-data in Education and Learning Analytics
+  * IEOR  Stochatic Optimization
 
 * Fall 2020
-  * STAT &nbsp Statistical Computing
-  * CS &nbsp   Machine Learning
-  * EE  &nbsp  Convex Optimization
-  * 
+  * STAT  Statistical Computing
+  * CS    Machine Learning
+  * EE    Convex Optimization
+  * MS&E  Management Systems Simulation
+  * ECON  Foundations for Financial Economics
 
 * Spring 2020
-  * STAT &nbsp Applied Time Series Analysis
-  * 
-  * 
+  * STAT  Applied Time Series Analysis
+  * CS Artificial Intelligence
+  * MS&E Business Data Analysis
+  * MS&E Production and Operation Management
+  * MS&E System Analysis and Design
+  * ECON Econometrics
 
 * Fall 2019
-  * STAT &nbsp Introduction to Causal Inference
-  * STAT &nbsp Nonparametric Statistics
-  *     
+  * STAT  Introduction to Causal Inference
+  * STAT  Nonparametric Statistics
+  * MATH Advanced linear Algebra    
+  * MATH Mathematical Analysis     
+  * CS Computer Networks 
+
+* Summer 2019
+  * CS  The Practice of C++ Programming
+  * CS  Application of Software Design and Practice (MATLAB)
 
 * Spring 2019
-  * STAT &nbsp Multivariate Statistical Analysis
-  * STAT &nbsp Linear Regression Analysis
+  * STAT  Multivariate Statistical Analysis
+  * STAT  Linear Regression Analysis
   * MATH Introduction to Complex Analysis
   * MATH Linear Algebra(2)
-  * MS&E Computer Systems Architecture
   * MS&E Dynamic Systems Analysis and Control
   * MS&E Operational Research
-  * MS&E The Principle and Application of Database
   * MS&E Management Information Systems
+  * CS Computer Systems Architecture
+  * CS The Principle and Application of Database
   * LAB  Exploration to Scientific Research of Lab
 
 
 * Fall 2018
-  * STAT &nbsp Statistical Inference
-  * STAT &nbsp Elementary Probability Theory
+  * STAT  Statistical Inference
+  * STAT  Elementary Probability Theory
   * MATH Probability and Mathematical Statistics
-  * CS Data Structures and Algorithms
   * PHYSICS Physics for Scientists and Engineers
+  * CS Data Structures and Algorithms
   * LIB Literature Searching and Utilization(Sci-Tech)  
 
 * Summer 2018
-  * MATH &nbsp Introduction of Mathematica and Its Applications
-  * CS  &nbsp  Design, Programming and Practice for Mobile Intelligent Robot
+  * MATH  Introduction of Mathematica and Its Applications
+  * CS    Design, Programming and Practice for Mobile Intelligent Robot
 
 * Spring 2018
-  * MATH &nbsp Calculus A(2)
-  * CS  &nbsp  Computer Programming Language
-  * ECON &nbsp Principles of Economics(2)
-  * ECON &nbsp Accounting Principles
-  * PSYCH &nbsp Introductory Psychology
+  * MATH  Calculus A(2)
+  * CS    Computer Programming Language
+  * ECON  Principles of Economics(2)
+  * ECON  Accounting Principles
+  * PSYCH  Introductory Psychology
 
 * Fall 2017
-  * MATH &nbsp Calculus A(1)
-  * MATH &nbsp Linear Algebra(1)
-  * CS  &nbsp  Computer Languages and Programming
-  * ECON &nbsp Principles of Economics(1)
-  * MS&E &nbsp Introduction of Information Management
+  * MATH  Calculus A(1)
+  * MATH  Linear Algebra(1)
+  * CS    Computer Languages and Programming
+  * ECON  Principles of Economics(1)
+  * MS&E  Introduction of Information Management
