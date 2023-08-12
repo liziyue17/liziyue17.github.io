@@ -114,6 +114,13 @@ Tsinghua University
   * ECON &emsp; Principles of Economics(1)
   * MS&E &emsp; Introduction of Information Management
 
+Fudan University
+======
+* Summer 2021
+  * Convex Optimization
+  * Fundamentals of Nonlinear Programming
+  * Causal Inference
+
 Coursera
 ======
 * Summer 2020
