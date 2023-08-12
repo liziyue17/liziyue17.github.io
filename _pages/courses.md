@@ -28,10 +28,10 @@ Tsinghua University
   * CS Big Data Practice Lesson
 
 * Spring 2022
-  * MS&E Empirical Methods in Management Science
-  * MS&E Advanced Operations Research
-  * MS&E IT & Organization
   * MS&E Advanced Applied Mathematical Statistics
+  * MS&E Advanced Operations Research
+  * MS&E Empirical Methods in Management Science
+  * MS&E IT & Organization
   * CS Big Data Technology: Applications with Practice
   * CS Big Data Analytics
   * CS Deep Learning
@@ -53,28 +53,29 @@ Tsinghua University
   * 
 
 * Fall 2020
+  * STAT Statistical Computing
   * CS Machine Learning
   * EE Convex Optimization
   * 
 
 * Spring 2020
-  * 
+  * STAT Applied Time Series Analysis
   * 
   * 
 
 * Fall 2019
-  * 
-  * 
+  * STAT Introduction to Causal Inference
+  * STAT Nonparametric Statistics
   *     
 
 * Spring 2019
-  * 
-  * 
+  * STAT Multivariate Statistical Analysis
+  * STAT Linear Regression Analysis
   * 
 
 * Fall 2018
-  * 
-  * 
+  * STAT Statistical Inference
+  * STAT Elementary Probability Theory
   *     
 
 * Spring 2018
