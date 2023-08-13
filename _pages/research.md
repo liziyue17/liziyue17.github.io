@@ -13,7 +13,7 @@ research1
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+research2
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,11 +25,13 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Undergraduate thesis: *Joint Estimation and Robustness Optimization in Prescriptive Analytics*, 2021
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Keywords: prescriptive analytics, counterfactual policy learning, distributionally robust optimization, data-driven decision
+* This work adapts [JERO](https://doi.org/10.1287/mnsc.2020.3898)'s framework to distributionally robust optimization problems in prescriptive analytics, and gives a specific solution. For a specific optimization problem, we apply the method of duality to transform the original distributionally robust optimization problem into a convex optimization problem with constraints, and give the derivation details under a variety of uncertainty sets.
+* JERO: [Zhu, Taozeng, Jingui Xie, and Melvyn Sim. "Joint estimation and robustness optimization." Management Science 68.3 (2022): 1659-1677.](https://doi.org/10.1287/mnsc.2020.3898)
+
+
+
+
+
