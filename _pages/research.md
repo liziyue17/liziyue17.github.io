@@ -14,9 +14,15 @@ author_profile: true
 stations. The goal is to minimize the total travel time for all trains in operation ensuring that all passengers can get to their destinations.
 * <img src="/images/research/2023/limited_stops_1.png" alt="drawing" width="350"/>
 
-research2
+[*Data-driven Robust Bipartite Weighted Matching with Stochastic Features*](), 2023
 ======
-* TO BE ADDED
+* Keywords: Online bipartite matching, Robust optimization, Competitive ratio, Data-driven
+* Supervisor: [Prof. Rajan Udwani](https://rudwani.ieor.berkeley.edu/), UC Berkeley
+* Contents
+* <img src="/images/research/2023/matching_1.png" alt="drawing"/>
+* <img src="/images/research/2023/matching_2.png" alt="drawing"/>
+
+
   
 Undergraduate thesis: *Joint Estimation and Robustness Optimization in Prescriptive Analytics*, 2021
 ======
