@@ -18,7 +18,10 @@ stations. The goal is to minimize the total travel time for all trains in operat
 ======
 * Keywords: Online bipartite matching, Robust optimization, Competitive ratio, Data-driven
 * Supervisor: [Prof. Rajan Udwani](https://rudwani.ieor.berkeley.edu/), UC Berkeley
-* Contents
+* We presents a novel approach for solving the online bipartite matching problem under
+conditions where the distribution of arrival types is unknown. To address this challenge, we propose
+a robust optimization method that can achieve near-optimal solutions by considering worst-case
+scenarios. Moreover, we compare our approach to other algorithms and generalize our model to cases when sufficient historical data is not available but we anticipate a large number of arrivals. In addition, we investigate the impact of the distribution of arrival types, particularly focusing on the minimum probability $p_{\min}$. Our analysis necessitates that $p_{\min} \geq 2 (\sqrt{\frac{32 \log (n+1)}{n}} + \epsilon)$, where $n$ is the total number of customers, and $\epsilon$ is the parameter that determines the level of uncertainty in the problem. 
 * <img src="/images/research/2023/matching_1.png" alt="drawing" width="600"/>
 * <img src="/images/research/2023/matching_2.png" alt="drawing" width="600"/>
 
