@@ -28,6 +28,7 @@ research2
 Undergraduate thesis: *Joint Estimation and Robustness Optimization in Prescriptive Analytics*, 2021
 ======
 * Keywords: Prescriptive analytics, Counterfactual policy learning, Distributionally robust optimization, Data-driven decision
+* Supervisor: [Prof. Bo Li](https://scholar.google.com/citations?user=GaJXFWMAAAAJ&hl=en), Tsinghua University
 * This work adapts [JERO](https://doi.org/10.1287/mnsc.2020.3898)'s framework to distributionally robust optimization problems in prescriptive analytics, and gives a specific solution. For a specific optimization problem, we apply the method of duality to transform the original distributionally robust optimization problem into a convex optimization problem with constraints, and give the derivation details under a variety of uncertainty sets.
 * JERO: [Zhu, Taozeng, Jingui Xie, and Melvyn Sim. "Joint estimation and robustness optimization." Management Science 68.3 (2022): 1659-1677.](https://doi.org/10.1287/mnsc.2020.3898)
 * <img src="/images/research/2021/bachelor_thesis_1.png" alt="drawing" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,5 +38,6 @@ Undergraduate thesis: *Joint Estimation and Robustness Optimization in Prescript
 
 *Financial Market Risk Assessment*, 2020
 ======
-* Keywords: Convex optimization, Duality, Pareto optimal, Mean-risk model, VaR(Value at Risk) 
+* Keywords: Mean-risk model, VaR(Value at Risk), Convex optimization, Duality, Pareto optimal
+* Supervisor: [Negash Medhin](https://www.or.ncsu.edu/people/ngmedhin/), NC State University
 * This work
