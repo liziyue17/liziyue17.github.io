@@ -40,4 +40,7 @@ Undergraduate thesis: *Joint Estimation and Robustness Optimization in Prescript
 ======
 * Keywords: Mean-risk model, VaR(Value at Risk), Convex optimization, Duality, Pareto optimal
 * Supervisor: [Negash Medhin](https://www.or.ncsu.edu/people/ngmedhin/), NC State University
-* This work
+* This work is about financial risk analysis in portfolio selection. We dealt with mean-risk model as well as other risk measures such as VaR. As an application, we consider the problem of finding an optimal portfolio using data from Chinese A-share market.
+* <img src="/images/research/2020/model1_example3.png" alt="drawing" width="250"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/images/research/2020/model2_example3.png" alt="drawing" width="250"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/images/research/2020/model3_example3.png" alt="drawing" width="250"/>
