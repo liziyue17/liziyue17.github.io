@@ -10,4 +10,40 @@ author_profile: true
 Travel Map
 ======
 * Contries I've been to.
-  <img src=https://cdn.roadgoat.com/uploads/screen_shot/image/12290/lee-jelly-travel-map-countries.png?v=905fc0d651129792762cbfd767b76f55 width="100%" style="max-width: 850px;" alt="My Travel Map - Where I've Been" border=0>
+* <!-- VisitedPlaces.com code -->
+<script>
+// VisitedPlaces.com code
+var visitedplaces_config = {
+  "map": "world",
+  "projection": "geoNaturalEarth1",
+  "theme": "dark-green",
+  "water": 1,
+  "graticule": 0,
+  "names": 1,
+  "duration": 2000,
+  "slider": 0,
+  "autoplay": 0,
+  "autozoom": "none",
+  "data": [
+    {
+      "places": [
+        "US",
+        "CA",
+        "CN",
+        "TW",
+        "JP",
+        "GB"
+      ],
+      "colors": {
+        "US": "daaa44"
+      }
+    }
+  ],
+  "home": "US"
+};
+</script>
+<script src="https://www.visitedplaces.com/js/common.js"></script>
+<script src="https://www.visitedplaces.com/js/viewer.js"></script>
+<div id="chartdiv" style="width: 100%; height: 600px;">
+<!-- end: VisitedPlaces.com code -->
+
