@@ -7,23 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-research1
+*Efficiency of Limited Stops Subway Operation*, 2023
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Keywords: Train schedule, Limited-stops service, Subway operation, Efficiency
+* While certain studies have explored the concept of long and short running routes, or limited stops, it is pertinent to generalize this notion to a broader context. Specifically, we consider scenarios where a train may not stop at all stations within a given interval, and instead, selectively halt at certain
+stations. The goal is to minimize the total travel time for all trains in operation ensuring that all passengers can get to their destinations.
+* <img src="/images/research/2023/limited_stops_1.png" alt="drawing" width="350"/>
 
 research2
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* TO BE ADDED
   
 Undergraduate thesis: *Joint Estimation and Robustness Optimization in Prescriptive Analytics*, 2021
 ======
