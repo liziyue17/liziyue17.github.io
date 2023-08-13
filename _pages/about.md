@@ -17,3 +17,6 @@ Contact
 Phone: (510)820-4273
 
 Email: lzy21@berkeley.edu
+
+
+<a href="https://clustrmaps.com/site/1bvxk"  title="Visit tracker"  style="display:none"><img src="//www.clustrmaps.com/map_v2.png?d=AJDiQ8NpKAacfwWcolf6XUaIFZ5HGvIM8aBdYYitMZs&cl=ffffff" /></a>
