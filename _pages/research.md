@@ -19,8 +19,8 @@ stations. The goal is to minimize the total travel time for all trains in operat
 * Keywords: Online bipartite matching, Robust optimization, Competitive ratio, Data-driven
 * Supervisor: [Prof. Rajan Udwani](https://rudwani.ieor.berkeley.edu/), UC Berkeley
 * Contents
-* <img src="/images/research/2023/matching_1.png" alt="drawing"/>
-* <img src="/images/research/2023/matching_2.png" alt="drawing"/>
+* <img src="/images/research/2023/matching_1.png" alt="drawing" width="600"/>
+* <img src="/images/research/2023/matching_2.png" alt="drawing" width="600"/>
 
 
   
