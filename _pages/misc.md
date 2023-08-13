@@ -21,6 +21,7 @@ Sports
 * The highest peak in Beijing, China - Lingshan Mountain, Apr 3, 2022
     * Lingshan Mountain, Beijing, China
     * Altitude: 2303m
+    * Distance: 12.3KM
     * The route map is [here](https://www.2bulu.com/track/t-EkkOaE%252BZL1Tp%252FR2KBg5Tzw%253D%253D.htm).
 * Beijing Xishan Mountain Hunt, Mar 9, 2022
     * Beijing, China
