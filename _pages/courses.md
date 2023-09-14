@@ -10,9 +10,9 @@ author_profile: true
 UC Berkeley
 ======
 * Fall 2023
-  * CEE 251 &emsp; Transportation Operations
-  * TBD &emsp;
-  * TBD &emsp;
+  * CEE 251 &emsp; Operations of Transportation Facilities
+  * CEE 252 &emsp; System Analysis in Transportation
+  * CEE 263H &emsp; Human Mobility and Network Science
 
 * Spring 2023
   * IEOR 255 &emsp; Frontiers in Revenue Management
