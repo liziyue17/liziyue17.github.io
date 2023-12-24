@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+404
+
+
+<!-- 
 UC Berkeley
 ======
 * Fall 2023
@@ -124,4 +128,4 @@ Fudan University
 Coursera
 ======
 * Summer 2020
-  * Bayesian Statistics: Techniques and Models
+  * Bayesian Statistics: Techniques and Models -->

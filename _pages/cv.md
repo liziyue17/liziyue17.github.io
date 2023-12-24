@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+404
+
+<!-- Education
 ======
 * Visiting Student, UC Berkeley, Jan.2023 - now
 * Ph.D in Operations Management, Tsinghua University, Sept.2021 - now
@@ -28,4 +30,4 @@ Competence
   * Markdown, Latex
   * (Rudimentary) C, Java, C++, html
 * Hobby
-  * Traveling, Hiking
+  * Traveling, Hiking -->
