@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">Thank you for your visit! However, this website is now under maintenance. The expected recovery time is May 2024.</span>
+<span style="color:red">Thank you for your visit! However, this website is now under maintenance. The expected recovery time is June 2024.</span>
 
 I am Ziyue (Jelly) Li. I commenced my PhD studies at the FAMU-FSU College of Engineering in Spring 2024. My research is focused on addressing challenges within public transit, with the aim of enhancing the overall transportation experience through the application of mathematical and algorithmic methodologies.
 
