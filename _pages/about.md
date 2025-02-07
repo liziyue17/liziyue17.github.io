@@ -7,10 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziyue (Jelly) Li. I commenced my PhD studies at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) in Spring 2024. My research is focused on addressing challenges within public transit, with the aim of enhancing the overall transportation experience through the application of mathematical and algorithmic methodologies. [Google scholar](https://scholar.google.com/citations?user=acIQuOYAAAAJ&hl=en)
+I am Ziyue (Jelly) Li, a second-year PhD student in transportation engineering. I commenced my PhD studies at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) in Spring 2024. My research is focused on addressing challenges within public transit, with the aim of enhancing the overall transportation experience through the application of mathematical and algorithmic methodologies. You can find my publications on [Google scholar](https://scholar.google.com/citations?user=acIQuOYAAAAJ&hl=en).
+
+It is my greatest honor to work with my advisor, [Dr. Qianwen Guo](https://sites.google.com/view/qguo/home). She is actively seeking highly motivated PhD and postdoctoral students to join her group in transportation engineering. Interested students may contact me for more information or reach out to her directly.
+
+I attend the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/) and the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) every year. Feel free to stop by my presentation if you're interested.
+
+I love traveling and plan to visit as many national parks in the U.S. as possible during my PhD. You can find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 
 
-A data-driven personal website
+
+
+
+
+
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
