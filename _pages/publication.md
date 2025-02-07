@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=acIQuOYAAAAJ&hl=en).
+
+
 Jounral Articles
 ======
 * Li, Z., Chow, J. Y., & Guo, Q. (2025). Runway capacity expansion planning for public airports under demand uncertainty. *arXiv preprint arXiv:2502.02783*. [paper](https://arxiv.org/abs/2502.02783)
