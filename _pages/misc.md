@@ -15,6 +15,8 @@ Travel
 
 I have a deep passion for traveling, especially hiking and exploring nature. I find great joy in experiencing diverse landscapes, and immersing myself in the beauty of the outdoors. My dream is to find a like-minded companion with whom I can share both professional aspirations and adventures. I believe that working together, supporting each other’s goals, and embarking on unforgettable journeys would make life even more fulfilling.
 
+You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/). Feel free to reach out at *liziyue567 [at] gmail [dot] com* if you're interested in traveling together!
+
 * Big bend national park, 12/21/2024
 
 ![Big bend national park](/images/travel/big_bend.jpg)
@@ -27,7 +29,7 @@ I have a deep passion for traveling, especially hiking and exploring nature. I f
 
 ![Olympic national park](/images/travel/olympic_np.jpg)
 
-* Mount Blue Sky (Mt. Evans), 10/19/2024
+* Mount Blue Sky (Mt. Evans), 8/17/2024
 
 ![Mount Blue Sky](/images/travel/colorado.jpg)
 
