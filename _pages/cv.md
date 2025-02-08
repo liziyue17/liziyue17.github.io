@@ -12,6 +12,7 @@ redirect_from:
 Education background
 ======
 * **Ph.D in Civil Engineering**, Florida State University, 2027 (expected)
+
   *Transferred from UC Berkeley in 2024*  
 * **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
 * **B.S. (Minor) in Statistics**, Tsinghua University, 2021
