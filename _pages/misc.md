@@ -37,7 +37,7 @@ You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 Experience
 ======
 
-I spent half a year at [UC Berkeley P&T](https://pt.berkeley.edu/home), and it was truly one of the happiest times of my life. The experience was both inspiring and unforgettable, filled with new friendships and exciting challenges. Are you P&T approved?"
+I spent half a year at [UC Berkeley P&T](https://pt.berkeley.edu/home), and it was truly one of the happiest times of my life. The experience was both inspiring and unforgettable, filled with new friendships and exciting challenges. Are you P&T approved?
 
 ![P&T1](/images/travel/p_t_together.jpg)
 
