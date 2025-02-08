@@ -9,13 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education background
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D in Civil Engineering**, Florida State University, 2027 (expected)
+  *Transferred from UC Berkeley in 2024*  
+* **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
+* **B.S. (Minor) in Statistics**, Tsinghua University, 2021
 
-Work experience
+
+Research experience
+* Research Assistant, Florida State University, 2024 - 2027 (expected)
+* Research Assistant, UC Berkeley, 2023 - 2024
+* Research Assistant, Tsinghua University, 2021 - 2022
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -61,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
