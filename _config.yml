@@ -13,9 +13,9 @@ title                    : "Ziyue (Jelly) Li"
 title_separator          : "-"
 name                     : &name "Ziyue (Jelly) Li"
 description              : &description "PhD student, Florida State University"
-url                      : https://liziyue567.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://liziyue17.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liziyue567/liziyue567.github.io"
+repository               : "liziyue17/liziyue17.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
