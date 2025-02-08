@@ -13,7 +13,7 @@ redirect_from:
 Travel
 ======
 
-I have a deep passion for traveling, especially hiking and exploring nature. I find great joy in experiencing diverse landscapes, and immersing myself in the beauty of the outdoors. My dream is to find like-minded companions—a couple with whom I can share both professional aspirations and adventures. I believe that working together, supporting each other’s goals, and embarking on unforgettable journeys would make life even more fulfilling.
+I have a deep passion for traveling, especially hiking and exploring nature. I find great joy in experiencing diverse landscapes, and immersing myself in the beauty of the outdoors. My dream is to find a like-minded companion with whom I can share both professional aspirations and adventures. I believe that working together, supporting each other’s goals, and embarking on unforgettable journeys would make life even more fulfilling.
 
 * Big bend national park, 12/21/2024
 
