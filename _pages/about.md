@@ -15,7 +15,7 @@ I attend the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.o
 
 I love traveling and plan to visit as many national parks in the U.S. as possible during my PhD. You can find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 
-
+![TRB Conference](/images/trb.jpg)
 
 
 
