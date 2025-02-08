@@ -12,13 +12,12 @@ redirect_from:
 Education background
 ======
 * **Ph.D in Civil Engineering**, Florida State University, 2027 (expected)
-
-  *Transferred from UC Berkeley in 2024*  
+  * *Transferred from UC Berkeley in 2024*  
 * **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
 * **B.S. (Minor) in Statistics**, Tsinghua University, 2021
 
-
 Research experience
+======
 * Research Assistant, Florida State University, 2024 - 2027 (expected)
 * Research Assistant, UC Berkeley, 2023 - 2024
 * Research Assistant, Tsinghua University, 2021 - 2022
