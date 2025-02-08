@@ -13,7 +13,7 @@ It is my greatest honor to work with my advisor, [Dr. Qianwen Guo](https://sites
 
 I attend the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/) and the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) every year. Feel free to stop by my presentation if you're interested.
 
-I love traveling and plan to visit as many national parks in the U.S. as possible during my PhD. You can find my travel posts on [blogger](https://liziyue17.blogspot.com/). Feel free to reach out at liziyue567 [at] gmail [dot] com if you're interested in traveling together!
+I love traveling and plan to visit as many national parks in the U.S. as possible during my PhD. You can find my travel posts on [blogger](https://liziyue17.blogspot.com/). Feel free to reach out at *liziyue567 [at] gmail [dot] com* if you're interested in traveling together!
 
 ![TRB Conference](/images/trb.jpg)
 
