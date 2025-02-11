@@ -33,33 +33,34 @@ You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 
 ![Mount Blue Sky](/images/travel/colorado.jpg) -->
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <figure style="width: 48%; text-align: center;">
-    <img src="/images/travel/big_bend.jpg" alt="Big Bend National Park" style="width: 100%;">
+  <figure style="width: 35%; text-align: center; margin-bottom: 20px;">
+    <img src="/images/travel/big_bend.jpg" alt="Big Bend National Park" style="width: 100%; border-radius: 8px;">
     <figcaption>Big Bend National Park, 12/21/2024</figcaption>
   </figure>
 
-  <figure style="width: 48%; text-align: center;">
-    <img src="/images/travel/great_smoky.jpg" alt="Great Smoky National Park" style="width: 100%;">
+  <figure style="width: 35%; text-align: center; margin-bottom: 20px;">
+    <img src="/images/travel/great_smoky.jpg" alt="Great Smoky National Park" style="width: 100%; border-radius: 8px;">
     <figcaption>Great Smoky National Park, 11/29/2024</figcaption>
   </figure>
 
 </div>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <figure style="width: 48%; text-align: center;">
-    <img src="/images/travel/olympic_np.jpg" alt="Olympic National Park" style="width: 100%;">
+  <figure style="width: 35%; text-align: center; margin-bottom: 20px;">
+    <img src="/images/travel/olympic_np.jpg" alt="Olympic National Park" style="width: 100%; border-radius: 8px;">
     <figcaption>Olympic National Park, 10/19/2024</figcaption>
   </figure>
 
-  <figure style="width: 48%; text-align: center;">
-    <img src="/images/travel/colorado.jpg" alt="Mount Blue Sky" style="width: 100%;">
+  <figure style="width: 35%; text-align: center; margin-bottom: 20px;">
+    <img src="/images/travel/colorado.jpg" alt="Mount Blue Sky" style="width: 100%; border-radius: 8px;">
     <figcaption>Mount Blue Sky (Mt. Evans), 8/17/2024</figcaption>
   </figure>
 
 </div>
+
 
 
 
