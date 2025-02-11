@@ -76,14 +76,17 @@ I spent half a year at [UC Berkeley P&T](https://pt.berkeley.edu/home), and it w
 ![P&T2](/images/travel/p_t_3.jpg) -->
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-  <figure style="width: 35%; text-align: center; margin-bottom: 20px;">
-    <img src="/images/travel/p_t_together.jpg" alt="P&T 1" style="width: 100%; border-radius: 8px;">
+  
+  <figure style="height: 300px; width: auto; text-align: center; margin-bottom: 20px;">
+    <img src="/images/travel/p_t_together.jpg" alt="P&T 1" 
+         style="height: 100%; width: auto; max-width: 100%; object-fit: cover; border-radius: 8px;">
   </figure>
 
-  <figure style="width: 35%; text-align: center; margin-bottom: 20px;">
-    <img src="/images/travel/p_t_3.jpg" alt="P&T 2" style="width: 100%; border-radius: 8px;">
+  <figure style="height: 300px; width: auto; text-align: center; margin-bottom: 20px;">
+    <img src="/images/travel/p_t_3.jpg" alt="P&T 2" 
+         style="height: 100%; width: auto; max-width: 100%; object-fit: cover; border-radius: 8px;">
   </figure>
 
 </div>
+
 
