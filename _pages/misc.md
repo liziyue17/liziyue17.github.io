@@ -17,7 +17,7 @@ I have a deep passion for traveling, especially hiking and exploring nature. I f
 
 You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/). Feel free to reach out at *liziyue567 [at] gmail [dot] com* if you're interested in traveling together!
 
-* Big bend national park, 12/21/2024
+<!-- * Big bend national park, 12/21/2024
 
 ![Big bend national park](/images/travel/big_bend.jpg)
 
@@ -31,7 +31,38 @@ You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 
 * Mount Blue Sky (Mt. Evans), 8/17/2024
 
-![Mount Blue Sky](/images/travel/colorado.jpg)
+![Mount Blue Sky](/images/travel/colorado.jpg) -->
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+  <figure style="width: 48%; text-align: center;">
+    <img src="/images/travel/big_bend.jpg" alt="Big Bend National Park" style="width: 100%;">
+    <figcaption>Big Bend National Park, 12/21/2024</figcaption>
+  </figure>
+
+  <figure style="width: 48%; text-align: center;">
+    <img src="/images/travel/great_smoky.jpg" alt="Great Smoky National Park" style="width: 100%;">
+    <figcaption>Great Smoky National Park, 11/29/2024</figcaption>
+  </figure>
+
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 10px;">
+
+  <figure style="width: 48%; text-align: center;">
+    <img src="/images/travel/olympic_np.jpg" alt="Olympic National Park" style="width: 100%;">
+    <figcaption>Olympic National Park, 10/19/2024</figcaption>
+  </figure>
+
+  <figure style="width: 48%; text-align: center;">
+    <img src="/images/travel/colorado.jpg" alt="Mount Blue Sky" style="width: 100%;">
+    <figcaption>Mount Blue Sky (Mt. Evans), 8/17/2024</figcaption>
+  </figure>
+
+</div>
+
+
+
 
 
 Experience
