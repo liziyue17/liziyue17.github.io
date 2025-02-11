@@ -75,7 +75,7 @@ I spent half a year at [UC Berkeley P&T](https://pt.berkeley.edu/home), and it w
 
 ![P&T2](/images/travel/p_t_3.jpg) -->
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
   
   <figure style="height: 300px; width: auto; text-align: center; margin-bottom: 20px;">
     <img src="/images/travel/p_t_together.jpg" alt="P&T 1" 
