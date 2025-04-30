@@ -14,9 +14,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Jounral Articles
 ======
+* **Li, Z.**, & Guo, Q. (in press). Vehicle occupancy estimation in Automated Guideway Transit via deep learning with Wi-Fi probe requests. *arXiv preprint arXiv:2501.16644*. [paper](https://doi.org/10.1080/15472450.2025.2499590)
 * **Li, Z**, Guo, Q., and Schonfeld, P. (2025). Joint optimization of capacity expansion timing and increment in airport terminals: Addressing stochastic demand and logistic growth. *Available at SSRN: [https://ssrn.com/abstract=5132629](https://ssrn.com/abstract=5132629)*. [paper](http://dx.doi.org/10.2139/ssrn.5132629)
 * **Li, Z.**, Chow, J. Y., & Guo, Q. (2025). Runway capacity expansion planning for public airports under demand uncertainty. *arXiv preprint arXiv:2502.02783*. [paper](https://arxiv.org/abs/2502.02783)
-* **Li, Z.**, & Guo, Q. (2025). Vehicle occupancy estimation in Automated Guideway Transit via deep learning with Wi-Fi probe requests. *arXiv preprint arXiv:2501.16644*. [paper](https://arxiv.org/abs/2501.16644)
+
 
   
 Conference Presentations
