@@ -23,7 +23,7 @@ Jounral Articles
   
 Conference Presentations
 ======
-* **Li, Z.**, Guo, Q., & Schonfeld, P. (2025). Stochastic models for airport terminal capacity expansion planning. Presented at the *104th TRB Annual Meeting*, Washington D.C., USA. [link](https://annualmeeting.mytrb.org/FileUpload/FullPaper?ID=58950&SessionID=22577)
-* **Li, Z.**, & Guo, Q. (2024). Stochastic models for airport runway capacity expansion planning. Presented at the *6th Bridging Transportation Researchers (BTR6) Conference*, Online. [link](https://youtu.be/8qYlGwEOU7w?feature=shared&t=2405)
-* **Li, Z.** (2024). Contrasting risk-averse investment decisions: A comparative study of real options analysis versus risk measures optimization for airport facilities capacity expansion. Presented at *INFORMS Annual Meeting*, Seattle, WA, USA. [link](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=5438)
+* **Li, Z.**, Guo, Q., & Schonfeld, P. (2025). Stochastic models for airport terminal capacity expansion planning. Presented at the *104th TRB Annual Meeting*, Washington D.C., USA.
+* **Li, Z.**, & Guo, Q. (2024). Stochastic models for airport runway capacity expansion planning. Presented at the *6th Bridging Transportation Researchers (BTR6) Conference*, Online.
+* **Li, Z.** (2024). Contrasting risk-averse investment decisions: A comparative study of real options analysis versus risk measures optimization for airport facilities capacity expansion. Presented at *INFORMS Annual Meeting*, Seattle, WA, USA.
 
