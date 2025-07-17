@@ -61,6 +61,9 @@ You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 
 </div>
 
+  My dream is to find a partner to join me in attending [*The Amazing Race*](https://en.wikipedia.org/wiki/The_Amazing_Race_(American_TV_series)), one of my favourite TV shows that I've been watching since primary school.
+
+
 
 Experience
 ======
