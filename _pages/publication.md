@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=acIQuOYAAAAJ&hl=en).
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=3nrmMOUAAAAJ&hl=en).
 
 
 Jounral Articles

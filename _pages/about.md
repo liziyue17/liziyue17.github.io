@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziyue (Jelly) Li, a second-year PhD candidate in transportation engineering. I commenced my PhD studies at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) in Spring 2024. My research is focused on addressing challenges within public transit, with the aim of enhancing the overall transportation experience through the application of mathematical and algorithmic methodologies. You can find my publications on [Google scholar](https://scholar.google.com/citations?user=acIQuOYAAAAJ&hl=en).
+I am Ziyue (Jelly) Li, a second-year PhD candidate in transportation engineering. I commenced my PhD studies at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) in Spring 2024. My research is focused on addressing challenges within public transit, with the aim of enhancing the overall transportation experience through the application of mathematical and algorithmic methodologies. You can find my publications on [Google scholar](https://scholar.google.com/citations?user=3nrmMOUAAAAJ&hl=en).
 
 It is my greatest honor to work with my advisor, [Dr. Qianwen (Vivian) Guo](https://sites.google.com/view/qguo/home). She is actively seeking highly motivated PhD and postdoctoral students to join her group in transportation engineering. Interested students may contact me for more information or reach out to her directly.
 
