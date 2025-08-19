@@ -33,6 +33,67 @@ You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/).
 
 ![Mount Blue Sky](/images/travel/colorado.jpg) -->
 
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 10px;">
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/yellowstone_np.jpeg" alt="Yellowstone National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Yellowstone National Park, 8/15/2025</figcaption>
+  </figure>
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/glaciernp.jpeg" alt="Glacier National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Glacier National Park, 8/13/2025</figcaption>
+  </figure>
+
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 10px;">
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/death_valley.jpg" alt="Death Valley National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Death Valley National Park, 3/18/2025</figcaption>
+  </figure>
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/grand_canyon.jpg" alt="Grand Canyon National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Grand Canyon National Park, 3/17/2025</figcaption>
+  </figure>
+
+</div>
+
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 10px;">
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/canyonlands.jpg" alt="Canyonlands National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Canyonlands National Park, 3/16/2025</figcaption>
+  </figure>
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/capital_reef.jpg" alt="Capital Reef Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Capital Reef Park, 3/14/2025</figcaption>
+  </figure>
+
+</div>
+
+
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 10px;">
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/bryce_canyon.jpg" alt="Bryce Canyon National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Bryce Canyon National Park, 3/13/2025</figcaption>
+  </figure>
+
+  <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
+    <img src="/images/travel/zion.jpg" alt="Zion National Park" style="width: 100%; border-radius: 8px;">
+    <figcaption>Zion National Park, 3/12/2025</figcaption>
+  </figure>
+
+</div>
+
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 10px;">
 
   <figure style="width: 30%; text-align: center; margin-bottom: 30px;">
