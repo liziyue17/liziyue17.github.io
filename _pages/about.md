@@ -9,7 +9,7 @@ redirect_from:
 
 I am Ziyue (Jelly) Li, a second-year PhD candidate in transportation engineering. I commenced my PhD studies at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) in Spring 2024. My research is focused on addressing challenges within public transit, with the aim of enhancing the overall transportation experience through the application of mathematical and algorithmic methodologies. You can find my publications on [Google scholar](https://scholar.google.com/citations?user=3nrmMOUAAAAJ&hl=en).
 
-It is my greatest honor to work with my advisor, [Dr. Qianwen (Vivian) Guo](https://sites.google.com/view/qguo/home).
+It is my greatest honor to work with my advisor, [Dr. Qianwen (Vivian) Guo](https://sites.google.com/view/qguo/home). I am fortunate to collaborate with [Dr. Joseph Chow](https://engineering.nyu.edu/faculty/joseph-chow) from New York University and [Dr. Paul Schonfeld](https://cee.umd.edu/clark/faculty/291/Paul-Schonfeld) from University of Maryland.
 
 I attend the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/) and the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) every year. Feel free to stop by my presentation if you're interested.
 
