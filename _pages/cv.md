@@ -11,7 +11,7 @@ redirect_from:
 
 Education background
 ======
-* **Ph.D in Civil Engineering**, Florida State University, 2027 (expected)
+* **Ph.D in Civil Engineering**, Florida State University, 2026 (expected)
   * *Dissertation: Revival of Public Transportation: Design, Operation, Impact, and Application in Response to Growing Demand and Uncertainty*  
   * *Transferred from UC Berkeley in 2024*  
 * **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
