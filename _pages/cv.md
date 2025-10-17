@@ -44,7 +44,7 @@ Education background
 Research experience
 ======
 * Research Assistant, Florida State University, 2024 - 2026 (expected)
-* Research Assistant, UC Berkeley, 2023 - 2024
+* Research Assistant, UC Berkeley, 2023
 * Research Assistant, Tsinghua University, 2021 - 2022
 
 <!-- Work experience
