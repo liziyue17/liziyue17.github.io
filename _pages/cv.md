@@ -29,6 +29,17 @@ Education background
 |40160733 | Applied Time Series Analysis | Spring 2020 | Dr. Dong Li | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate |
 |30510273  | Data Structures and Algorithms | Autumn 2018 | Dr. Qiang Wei | Tsinghua University | School of Economics and Management | 3 | Undergraduate |
 
+*Courses that are considered challenging (recognized for advanced mathematics)*  
+
+|Course Number | Course Name | Semester | Instructor | University | Department | Credit Units | Level | Grade |
+|-------------|--------------|---------|-------------|-------------|-------------|-----|--------|--------|
+|INDENG 255| Frontiers in Revenue Management | Spring 2023 | Dr. Rajan Udwani | University of California, Berkeley | Industrial Engineering & Operations Research | 3 | Graduate | A |
+|STAT 210B| Theoretical Statistics | Spring 2023 | Dr. Song Mei | University of California, Berkeley | Department of Statistics | 4 | Graduate | A |
+|90510133  | Advanced Econometrics | Autumn 2021 | Dr. Liangjun Su | Tsinghua University | School of Economics and Management | 3 | Graduate | A- |
+|70250403 | Convex Optimization | Autumn 2020 | Dr. Li Li | Tsinghua University | Department of Automation | 3 | Graduate | A |
+|80160413 | Nonparametric Statistics | Autumn 2019 | Dr. Lijian Yang | Tsinghua University | Department of Statistics and Data Science | 3 | Graduate | P |
+|40160763  | Multivariate Statistical Analysis | Autumn 2019 | Dr. Wanlu Deng | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A |
+
 
 Research experience
 ======
