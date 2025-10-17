@@ -38,7 +38,7 @@ Education background
 |90510133  | Advanced Econometrics | Autumn 2021 | Dr. Liangjun Su | Tsinghua University | School of Economics and Management | 3 | Graduate | A- |
 |70250403 | Convex Optimization | Autumn 2020 | Dr. Li Li | Tsinghua University | Department of Automation | 3 | Graduate | A |
 |80160413 | Nonparametric Statistics | Autumn 2019 | Dr. Lijian Yang | Tsinghua University | Department of Statistics and Data Science | 3 | Graduate | P |
-|40160763  | Multivariate Statistical Analysis | Autumn 2019 | Dr. Wanlu Deng | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A |
+|40160763  | Multivariate Statistical Analysis | Spring 2019 | Dr. Wanlu Deng | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A |
 
 
 Research experience
