@@ -25,7 +25,7 @@ Education background
 |-----------|--------------|-----------|-------------|-------------|-------------|--------|--------|
 |CIVENG 251| Operation of Transportation Facilities | Fall 2023 | Dr. Michael Cassidy | University of California, Berkeley | Civil & Environmental Engineering | 3 | Graduate |
 |COMPSCI X443| Fundamentals of Website Development | Fall 2023 | Dr. Michael Kremer | University of California, Berkeley | UC Berkeley Extension | 2 | Undergraduate |
-|61030042 |Team Cooperation learning Theory and Training | Autumn 2020 | Dr. Xiaolei Zhang | Tsinghua University | School of Education| 2 | Graduate |
+|61030042 |Team Cooperation Learning Theory and Training | Autumn 2020 | Dr. Xiaolei Zhang | Tsinghua University | School of Education| 2 | Graduate |
 |40160733 | Applied Time Series Analysis | Spring 2020 | Dr. Dong Li | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate |
 |30510273  | Data Structures and Algorithms | Autumn 2018 | Dr. Qiang Wei | Tsinghua University | School of Economics and Management | 3 | Undergraduate |
 
