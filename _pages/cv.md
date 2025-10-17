@@ -21,24 +21,24 @@ Education background
 
 *Courses with grade **A+** (only awarded to top performers in each class)*  
 
-|Course Number | Course Name | Semester | Instructor | University | Department | Credit Units | Level | Grade |
-|-------------|--------------|---------|-------------|-------------|-------------|-----|--------|----|
-|CIVENG 251| Operation of Transportation Facilities | Fall 2023 | Dr. Michael Cassidy | University of California, Berkeley | Civil & Environmental Engineering | 3 | Graduate | A+ |
-|COMPSCI X443| Fundamentals of Website Development | Fall 2023 | Dr. Michael Kremer | University of California, Berkeley | UC Berkeley Extension | 2 | Undergraduate | A+ |
-|61030042 |Team Cooperation Learning Theory and Training | Autumn 2020 | Dr. Xiaolei Zhang | Tsinghua University | School of Education| 2 | Graduate | A+ |
-|40160733 | Applied Time Series Analysis | Spring 2020 | Dr. Dong Li | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A+ |
-|30510273  | Data Structures and Algorithms | Autumn 2018 | Dr. Qiang Wei | Tsinghua University | School of Economics and Management | 3 | Undergraduate | A+ |
+|Course Number | Course Name | Semester | University | Department | Credit Units | Level | Grade |
+|-------------|--------------|---------|-------------|-------------|-----|--------|----|
+|CIVENG 251| Operation of Transportation Facilities | Fall 2023 | University of California, Berkeley | Civil & Environmental Engineering | 3 | Graduate | A+ |
+|COMPSCI X443| Fundamentals of Website Development | Fall 2023 | University of California, Berkeley | UC Berkeley Extension | 2 | Undergraduate | A+ |
+|61030042 |Team Cooperation Learning Theory and Training | Autumn 2020 | Tsinghua University | School of Education| 2 | Graduate | A+ |
+|40160733 | Applied Time Series Analysis | Spring 2020 | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A+ |
+|30510273  | Data Structures and Algorithms | Autumn 2018 | Tsinghua University | School of Economics and Management | 3 | Undergraduate | A+ |
 
 *Courses that are considered challenging (recognized for advanced mathematics)*  
 
-|Course Number | Course Name | Semester | Instructor | University | Department | Credit Units | Level | Grade |
-|-------------|--------------|---------|-------------|-------------|-------------|-----|--------|--------|
-|INDENG 255| Frontiers in Revenue Management | Spring 2023 | Dr. Rajan Udwani | University of California, Berkeley | Industrial Engineering & Operations Research | 3 | Graduate | A |
-|STAT 210B| Theoretical Statistics | Spring 2023 | Dr. Song Mei | University of California, Berkeley | Department of Statistics | 4 | Graduate | A |
-|90510133  | Advanced Econometrics | Autumn 2021 | Dr. Liangjun Su | Tsinghua University | School of Economics and Management | 3 | Graduate | A- |
-|70250403 | Convex Optimization | Autumn 2020 | Dr. Li Li | Tsinghua University | Department of Automation | 3 | Graduate | A |
-|80160413 | Nonparametric Statistics | Autumn 2019 | Dr. Lijian Yang | Tsinghua University | Department of Statistics and Data Science | 3 | Graduate | P |
-|40160763  | Multivariate Statistical Analysis | Spring 2019 | Dr. Wanlu Deng | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A |
+|Course Number | Course Name | Semester | University | Department | Credit Units | Level | Grade |
+|-------------|--------------|---------|-------------|-------------|-----|--------|--------|
+|INDENG 255| Frontiers in Revenue Management | Spring 2023 | University of California, Berkeley | Industrial Engineering & Operations Research | 3 | Graduate | A |
+|STAT 210B| Theoretical Statistics | Spring 2023 | University of California, Berkeley | Department of Statistics | 4 | Graduate | A |
+|90510133  | Advanced Econometrics | Autumn 2021 | Tsinghua University | School of Economics and Management | 3 | Graduate | A- |
+|70250403 | Convex Optimization | Autumn 2020 | Tsinghua University | Department of Automation | 3 | Graduate | A |
+|80160413 | Nonparametric Statistics | Autumn 2019 | Tsinghua University | Department of Statistics and Data Science | 3 | Graduate | P |
+|40160763  | Multivariate Statistical Analysis | Spring 2019 | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A |
 
 
 Research experience
