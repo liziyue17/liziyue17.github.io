@@ -23,10 +23,9 @@ Jounral Articles
   
 Conference Presentations
 ======
-* **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 11). A two-stage restoration approach for road networks after disruptive natural disasters. Present at the *105th TRB Annual Meeting*, Washington D.C., USA.
-* **Li, Z.**, & Guo, Q. (2025, October 27). How fare capping affects transit ridership and social welfare? An optimization approach with elastic and spatially distributed demand. Present at *INFORMS Annual Meeting*, Atlanta, GA, USA.
-* Guo, Q., & **Li, Z.**  (2025, October 27). Beyond the horizon: Valuing flexibility in urban rail extension decisions under political cycles and present bias. Present at *INFORMS Annual Meeting*, Atlanta, GA, USA.
-<!-- * Guo, Q., **Li, Z.**, & Zhou, X. (2025, September 17). Choice-based modeling for scalable implementation: A data-driven approach to breaking the vicious cycle in public transit. Present at *2025 Modeling Mobility Conference*, Minneapolis, MN, USA. -->
+* **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 13). A two-stage restoration approach for road networks after disruptive natural disasters. Present at the *105th TRB Annual Meeting*, Washington D.C., USA.
+* **Li, Z.**, & Guo, Q. (2025, October 27). How fare capping affects transit ridership and social welfare? An optimization approach with elastic and spatially distributed demand. Presented at *INFORMS Annual Meeting*, Atlanta, GA, USA.
+* Guo, Q., & **Li, Z.**  (2025, October 27). Beyond the horizon: Valuing flexibility in urban rail extension decisions under political cycles and present bias. Presented at *INFORMS Annual Meeting*, Atlanta, GA, USA.
 * **Li, Z.**, Udekwe, D., & Guo, Q. (2025, August 6). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *7th Bridging Transportation Researchers (BTR7) Conference*, Online.
 * **Li, Z.**, & Guo, Q. (2025, June 27). Assessing the impact of drone delivery on urban spatial structure and transportation networks. Presented at *ITEA 2025 Annual Conference*, Evanston, IL, USA.
 * **Li, Z.**, Guo, Q., & Schonfeld, P. (2025, January 6). Stochastic models for airport terminal capacity expansion planning. Presented at the *104th TRB Annual Meeting*, Washington D.C., USA.
