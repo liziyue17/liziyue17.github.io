@@ -19,7 +19,7 @@ I attend the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.o
 
 <p align="center">
   <img src="/images/trb.jpg" alt="TRB Conference" style="height: 200px; border-radius: 8px; margin-right: 20px;">
-  <img src="/images/informs.jpg" alt="INFORMS Conference" style="height: 200px; border-radius: 8px;">
+  <img src="/images/INFORMS.jpg" alt="INFORMS Conference" style="height: 200px; border-radius: 8px;">
 </p>
 
 
