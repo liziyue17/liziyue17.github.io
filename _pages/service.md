@@ -21,6 +21,7 @@ Professional Associations
   
 Reviewer Service
 ======
+* Safety Science (Jan. 2026 - present)
 * COTA International Conference of Transportation Professionals (CICTP) Conference (Dec. 2025 - present)
 * Transportation Research Part B: Methodological (Oct. 2025 - present)
 * Computational Urban Science (Sep. 2025 - present)
