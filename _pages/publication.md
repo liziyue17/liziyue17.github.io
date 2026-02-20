@@ -23,12 +23,13 @@ Jounral Articles
   
 Conference Presentations
 ======
-* **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 13). A two-stage restoration approach for road networks after disruptive natural disasters. Present at the *105th TRB Annual Meeting*, Washington D.C., USA.
+* **Li, Z.**, & Guo, Q. (2026, June 8). Airport capacity expansion under demand uncertainty and present-biased decisions. Present at the *TRB Symposium on Aviation Innovation and Research*, Dayton, OH, USA.
+* **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 13). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *105th TRB Annual Meeting*, Washington, D.C., USA.
 * **Li, Z.**, & Guo, Q. (2025, October 27). How fare capping affects transit ridership and social welfare? An optimization approach with elastic and spatially distributed demand. Presented at *INFORMS Annual Meeting*, Atlanta, GA, USA.
 * Guo, Q., & **Li, Z.**  (2025, October 27). Beyond the horizon: Valuing flexibility in urban rail extension decisions under political cycles and present bias. Presented at *INFORMS Annual Meeting*, Atlanta, GA, USA.
 * **Li, Z.**, Udekwe, D., & Guo, Q. (2025, August 6). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *7th Bridging Transportation Researchers (BTR7) Conference*, Online.
 * **Li, Z.**, & Guo, Q. (2025, June 27). Assessing the impact of drone delivery on urban spatial structure and transportation networks. Presented at *ITEA 2025 Annual Conference*, Evanston, IL, USA.
-* **Li, Z.**, Guo, Q., & Schonfeld, P. (2025, January 6). Stochastic models for airport terminal capacity expansion planning. Presented at the *104th TRB Annual Meeting*, Washington D.C., USA.
+* **Li, Z.**, Guo, Q., & Schonfeld, P. (2025, January 6). Stochastic models for airport terminal capacity expansion planning. Presented at the *104th TRB Annual Meeting*, Washington, D.C., USA.
 * **Li, Z.** (2024, October 21). Contrasting risk-averse investment decisions: A comparative study of real options analysis versus risk measures optimization for airport facilities capacity expansion. Presented at *INFORMS Annual Meeting*, Seattle, WA, USA.
 * **Li, Z.**, & Guo, Q. (2024, August 8). Stochastic models for airport runway capacity expansion planning. Presented at the *6th Bridging Transportation Researchers (BTR6) Conference*, Online.
 
