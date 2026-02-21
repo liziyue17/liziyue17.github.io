@@ -25,6 +25,7 @@ Conference Presentations
 ======
 * **Li, Z.**, & Guo, Q. (2026, June 8). Airport capacity expansion under demand uncertainty and present-biased decisions. Present at the *2026 TRB Symposium on Aviation Innovation and Research*, Dayton, OH, USA.
 * **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 13). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *105th TRB Annual Meeting*, Washington, D.C., USA.
+* **Li, Z.**. (2026, January 11). Transportation infrastructure investment under uncertainty: Models and applications in airport capacity expansion decisions. Presented at *2026 COTA TRB Winter Symposium*, Washington, D.C., USA.
 * **Li, Z.**, & Guo, Q. (2025, October 27). How fare capping affects transit ridership and social welfare? An optimization approach with elastic and spatially distributed demand. Presented at *INFORMS Annual Meeting*, Atlanta, GA, USA.
 * Guo, Q., & **Li, Z.**  (2025, October 27). Beyond the horizon: Valuing flexibility in urban rail extension decisions under political cycles and present bias. Presented at *INFORMS Annual Meeting*, Atlanta, GA, USA.
 * **Li, Z.**, Udekwe, D., & Guo, Q. (2025, August 6). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *7th Bridging Transportation Researchers (BTR7) Conference*, Online.
