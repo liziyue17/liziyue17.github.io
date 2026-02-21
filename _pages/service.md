@@ -12,7 +12,8 @@ redirect_from:
 
 Professional Associations
 ======
-* NSF Transforming Urban Underground Infrastructure (TUUI) Collaborative (Dec. 2025 - present)
+* Natural Hazards Engineering Research Infrastructure Graduate Student Council (NHERI GSC) Member (Feb. 2026 - present)
+* NSF Transforming Urban Underground Infrastructure (TUUI) Collaborative Member (Dec. 2025 - present)
 * Transportation Research Board (TRB) Student Member (Oct. 2025 - present)
 * International Transportation Economics Association (ITEA) Student Member (Apr. 2025 - present)
 * INFORMS Transportation Science & Logistics (TSL) Society Student Member (Jul. 2024 - present)
