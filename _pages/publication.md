@@ -23,6 +23,7 @@ Jounral Articles
   
 Conference Presentations
 ======
+* **Li, Z.**, & Guo, Q. (2026, July 26). Airport capacity expansion under demand uncertainty and present-biased decisions. Present at the *2026 Transportation Science and Logistics (TSL) Conference*, Boston, MA, USA.
 * **Li, Z.**, & Guo, Q. (2026, June 8). Airport capacity expansion under demand uncertainty and present-biased decisions. Present at the *2026 TRB Symposium on Aviation Innovation and Research*, Dayton, OH, USA.
 * **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 13). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *105th TRB Annual Meeting*, Washington, D.C., USA.
 * **Li, Z.**. (2026, January 11). Transportation infrastructure investment under uncertainty: Models and applications in airport capacity expansion decisions. Presented at *2026 COTA TRB Winter Symposium*, Washington, D.C., USA.
