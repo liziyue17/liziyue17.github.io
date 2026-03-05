@@ -11,13 +11,14 @@ redirect_from:
 
 Education background
 ======
-* **Ph.D in Civil Engineering**, Florida State University, 2026 (expected)
+* **Ph.D in Civil Engineering**, Florida State University, 2026
   * *Dissertation: Revival of Public Transportation: Design, Operation, Impact, and Application in Response to Growing Demand and Uncertainty*  
   * *Transferred from UC Berkeley in 2024*  
+* **MEng in Civil Engineering**, Florida State University, 2026
 * **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
-  * *Dissertation: Joint Estimation and Robustness Optimization in Prescriptive Analysis* 
+  * *Thesis: Joint Estimation and Robustness Optimization in Prescriptive Analysis* 
 * **B.S. (Minor) in Statistics**, Tsinghua University, 2021
-
+<!-- 
 
 *Courses with grade **A+** (only awarded to top performers in each class)*  
 
@@ -38,12 +39,12 @@ Education background
 |90510133  | Advanced Econometrics | Autumn 2021 | Tsinghua University | School of Economics and Management | 3 | Graduate | A- |
 |70250403 | Convex Optimization | Autumn 2020 | Tsinghua University | Department of Automation | 3 | Graduate | A |
 |80160413 | Nonparametric Statistics | Autumn 2019 | Tsinghua University | Department of Statistics and Data Science | 3 | Graduate | P |
-|40160763  | Multivariate Statistical Analysis | Spring 2019 | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A |
+|40160763  | Multivariate Statistical Analysis | Spring 2019 | Tsinghua University | Department of Statistics and Data Science | 3 | Undergraduate | A | -->
 
 
 Research experience
 ======
-* Research Assistant, Florida State University, 2024 - 2026 (expected)
+* Research Assistant, Florida State University, 2024 - 2026
 * Research Assistant, UC Berkeley, 2023
 * Research Assistant, Tsinghua University, 2021 - 2022
 
