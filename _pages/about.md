@@ -1,7 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "About me"
+# title: "About me"
+title: ""
 author_profile: true
 classes: wide
 redirect_from: 
