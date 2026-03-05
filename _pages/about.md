@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziyue (Jelly) Li, a researcher in transportation engineering who recently defended Ph.D. dissertation at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) on March 3, 2026. My research applies stochastic modeling, economic analysis, and optimization methods to address challenges in urban transportation planning and decision-making. My work focuses on developing analytical and algorithmic approaches to support more efficient, intelligent, sustainable, and resilient transportation systems. My publications can be found on [Google scholar](https://scholar.google.com/citations?user=3nrmMOUAAAAJ&hl=en).
+I am Ziyue (Jelly) Li, a researcher in transportation engineering who recently defended Ph.D. dissertation at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) on March 3, 2026. My research applies stochastic modeling, economic analysis, and optimization methods to address challenges in urban transportation planning and decision-making. My work focuses on developing analytical and algorithmic approaches to support more efficient, intelligent, sustainable, and resilient transportation systems.
 
 I serve as the Principal Investigator of the NSF TUUI Collaborative Activity Group titled [*Resilient Underground Subway Infrastructure Maintenance Planning*](https://tuui.civil.gmu.edu/resilient_underground/
 ). This initiative aims to advance the understanding of underground subway infrastructure systems and improve maintenance planning strategies for these critical assets. **Key topics of interest include**:
