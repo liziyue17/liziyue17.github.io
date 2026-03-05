@@ -18,6 +18,7 @@ Education background
 * **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
   * *Thesis: Joint Estimation and Robustness Optimization in Prescriptive Analysis* 
 * **B.S. (Minor) in Statistics**, Tsinghua University, 2021
+
 <!-- 
 
 *Courses with grade **A+** (only awarded to top performers in each class)*  
