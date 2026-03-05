@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ziyue (Jelly) Li"
+title                    : "Ziyue (Jelly) Li, Ph.D."
 title_separator          : "-"
-name                     : &name "Ziyue (Jelly) Li"
-description              : &description "PhD candidate, Florida State University"
+name                     : &name "Ziyue (Jelly) Li, Ph.D."
+description              : &description "Ph.D., Florida State University"
 url                      : https://liziyue17.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liziyue17/liziyue17.github.io"
