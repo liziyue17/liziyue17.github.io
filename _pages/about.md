@@ -11,7 +11,6 @@ I am Ziyue (Jelly) Li, a researcher in transportation engineering who recently d
 
 I am the Principal Investigator of the NSF TUUI Collaborative Activity Group titled [*Resilient Underground Subway Infrastructure Maintenance Planning*](https://tuui.civil.gmu.edu/resilient_underground/
 ). This initiative aims to advance the understanding of underground subway infrastructure systems and improve maintenance planning strategies for these critical assets. **Key topics of interest include**:
-
 - Infrastructure degradation modeling
 - State-of-the-art infrastructure health monitoring technologies
 - Vulnerability to natural disasters
@@ -19,7 +18,6 @@ I am the Principal Investigator of the NSF TUUI Collaborative Activity Group tit
 - Challenges in infrastructure maintenance planning
 - Policies and practices used by transit agencies globally
 - Impact of aging infrastructure and maintenance on service quality and ridership
-
 Feel free to [reach out](mailto:zl23n@fsu.edu) if you are interested in this project or potential collaboration.
 
 
