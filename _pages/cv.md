@@ -12,7 +12,7 @@ redirect_from:
 Education background
 ======
 * **Ph.D in Civil Engineering**, Florida State University, 2026
-  * *Dissertation: Revival of Public Transportation: Design, Operation, Impact, and Application in Response to Growing Demand and Uncertainty*  
+  * *Dissertation: Transportation Infrastructure Investment under Uncertainty: Models and Applications in Airport Capacity Expansion Decisions*  
   * *Transferred from UC Berkeley in 2024*  
 * **MEng in Civil Engineering**, Florida State University, 2026
 * **B.S. in Information Management and Information Systems**, Tsinghua University, 2021
