@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Student Mentorship
+Florida State University
 ======
 
 **Susan Bakalarczyk**, *Accessibility Analysis of Public Transit and Student Housing in Tallahassee*, [FSU UROP](https://cre.fsu.edu/undergradresearch/urop), Fall 2025 - Spring 2026
