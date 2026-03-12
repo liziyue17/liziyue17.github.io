@@ -23,6 +23,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Mentorship"
+    url: /mentorship/
+
   - title: "Service"
     url: /service/
 
