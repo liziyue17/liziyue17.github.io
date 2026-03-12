@@ -13,7 +13,7 @@ redirect_from:
 Student Mentorship
 ======
 
-**Susan Bakalarczyk**, *Accessibility Analysis of Public Transit and Student Housing in Tallahassee*, Fall 2025 - Spring 2026, [FSU UROP](https://cre.fsu.edu/undergradresearch/urop)
+**Susan Bakalarczyk**, *Accessibility Analysis of Public Transit and Student Housing in Tallahassee*, [FSU UROP](https://cre.fsu.edu/undergradresearch/urop), Fall 2025 - Spring 2026
 
 <div style="text-align: center; margin: 30px 0;">
   <figure style="width: 90%; margin: auto;">
@@ -21,7 +21,7 @@ Student Mentorship
   </figure>
 </div>
 
-**John Gardner**, *Evaluating Bus Stop Efficiency in Tallahassee: A Spatial Analysis of Transit Supply and Ridership Demand*, Fall 2025 - Spring 2026, [FSU UROP](https://cre.fsu.edu/undergradresearch/urop)
+**John Gardner**, *Evaluating Bus Stop Efficiency in Tallahassee: A Spatial Analysis of Transit Supply and Ridership Demand*, [FSU UROP](https://cre.fsu.edu/undergradresearch/urop), Fall 2025 - Spring 2026
 
 <div style="text-align: center; margin: 30px 0;">
   <figure style="width: 90%; margin: auto;">
