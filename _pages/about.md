@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am actively seeking Postdoctoral or Research Scientist roles in Transportation Science.**
+## I am actively seeking Postdoctoral or Research Scientist roles in Transportation Science.
 
 I am Ziyue (Jelly) Li, a researcher in transportation engineering who recently defended Ph.D. dissertation at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) on March 3, 2026. My research applies stochastic modeling, economic analysis, and optimization methods to address challenges in urban transportation planning and decision-making. My work focuses on developing analytical and algorithmic approaches to support more efficient, intelligent, sustainable, and resilient transportation systems.
 
