@@ -14,13 +14,34 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Jounral Articles
 ======
+
+
+## Published
+
 * **Li, Z**, Guo, Q., & Schonfeld, P. (2025). Joint optimization of capacity expansion timing and increment in airport terminals: Addressing stochastic demand and logistic growth. *Transportation Research Part C: Emerging Technologies*, *180*, 105347. [paper](https://doi.org/10.1016/j.trc.2025.105347)
 * **Li, Z.**, Chow, J. Y., & Guo, Q. (2025). Runway capacity expansion planning for public airports under demand uncertainty. *Journal of Air Transport Management*, *128*, 102824. [paper](https://doi.org/10.1016/j.jairtraman.2025.102824)
 * **Li, Z.**, & Guo, Q. (2025). Vehicle occupancy estimation in Automated Guideway Transit via deep learning with Wi-Fi probe requests. *Journal of Intelligent Transportation Systems*, 1-19. [paper](https://doi.org/10.1080/15472450.2025.2499590)
+
+
+
+## Under Review
+
 * **Li, Z**, Guo, Q., & Schonfeld, P. (2025). Airport capacity expansion decisions under airport-airline-passenger interactions and stochastic dynamic demand growth with a jump-diffusion model. *Available at SSRN: [https://ssrn.com/abstract=5442988](https://ssrn.com/abstract=5442988)*. [paper](https://dx.doi.org/10.2139/ssrn.5442988)
 
 
-  
+
+## Working Papers
+
+* **Li, Z**, Guo, Q., & Schonfeld, P. (2026). Energy-efficient drone logistics for last-mile felivery: Implications of payload-dependent routing strategies. *arXiv preprint [arXiv:2604.07514](https://arxiv.org/abs/2604.07514)*. [paper](https://doi.org/10.48550/arXiv.2604.07514)
+* **Li, Z**, Udekwe, D., & Guo, Q. (2026). A two-stage restoration approach for road networks after disruptive natural disasters. *Available at SSRN: [https://ssrn.com/abstract=6704498](https://ssrn.com/abstract=6704498)*. [paper](https://dx.doi.org/10.2139/ssrn.6704498)
+
+
+Technical Reports
+======
+* Lu, J., **Li, Z.**, & Guo, Q. (2024). Equitable Restoration Strategies for Bridge and Road Infrastructure Networks after Hurricanes in Coastal Communities *(No. ABC-UTC-FIU-2016-6-04-Final)*. [report](https://abc-utc.fiu.edu/research-projects/equitable-restoration-strategies-for-bridge-and-road-infrastructure-networks-after-hurricanes-in-coastal-communities/)
+
+
+ 
 Conference Presentations
 ======
 * **Li, Z.**, & Guo, Q. (2026, July 26). Airport capacity expansion under demand uncertainty and present-biased decisions. Present at the *2026 Transportation Science and Logistics (TSL) Conference*, Boston, MA, USA.
