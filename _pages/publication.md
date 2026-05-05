@@ -33,7 +33,7 @@ Jounral Articles
 ## Working Papers
 
 * **Li, Z**, Guo, Q., & Schonfeld, P. (2026). Energy-efficient drone logistics for last-mile felivery: Implications of payload-dependent routing strategies. *arXiv preprint [arXiv:2604.07514](https://arxiv.org/abs/2604.07514)*. [paper](https://doi.org/10.48550/arXiv.2604.07514)
-* **Li, Z**, Udekwe, D., & Guo, Q. (2026). A two-stage restoration approach for road networks after disruptive natural disasters. *Available at SSRN: [https://ssrn.com/abstract=6704498](https://ssrn.com/abstract=6704498)*. [paper](https://dx.doi.org/10.2139/ssrn.6704498)
+* **Li, Z**, Udekwe, D., & Guo, Q. (2026). A two-stage restoration approach for road networks after disruptive natural disasters. *Available at [SSRN 5442988](https://ssrn.com/abstract=6704498)*. [paper](https://dx.doi.org/10.2139/ssrn.6704498)
 
 
 Technical Reports
