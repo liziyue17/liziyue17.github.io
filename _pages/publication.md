@@ -26,6 +26,9 @@ Jounral Articles
 
 ## Under Review
 
+
+* Hasan, M. M., Marcil, R. R., **Li, Z.**, & Guo, Q. (2026). A counterfactual analysis of post-pandemic airport recovery in the United States. *under review*
+
 * **Li, Z.**, Guo, Q., & Schonfeld, P. (2025). Airport capacity expansion decisions under airport-airline-passenger interactions and stochastic dynamic demand growth with a jump-diffusion model. *Available at [SSRN 5442988](https://ssrn.com/abstract=5442988)*. [paper](https://dx.doi.org/10.2139/ssrn.5442988)
 
 
