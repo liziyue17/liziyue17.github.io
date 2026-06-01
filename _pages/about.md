@@ -28,9 +28,6 @@ I serve as the Principal Investigator of the NSF TUUI Collaborative Activity Gro
 
 Feel free to [reach out](mailto:zl23n@fsu.edu) if you are interested in this project or potential collaboration.
 
-
-It is my greatest honor to work with my advisor, [Dr. Qianwen (Vivian) Guo](https://sites.google.com/view/qguo/home). I am fortunate to collaborate with [Dr. Joseph Chow](https://engineering.nyu.edu/faculty/joseph-chow) from New York University and [Dr. Paul Schonfeld](https://cee.umd.edu/clark/faculty/291/Paul-Schonfeld) from University of Maryland.
-
 I regularly present at the [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/) and the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/). If you are attending, I would be glad to connect.
 
 <!-- ![TRB Conference](/images/trb.jpg) -->
