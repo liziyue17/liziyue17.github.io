@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-## I will join [Department of Information Systems and Operations Management (ISOM)(https://eng.famu.fsu.edu/)] at Tilburg University starting September 2026.
+## I will join the [Department of Information Systems and Operations Management (ISOM)](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/information-systems-and-operations-management) at Tilburg University starting September 2026.
 
 I am Ziyue (Jelly) Li, a postdoctoral researcher at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/). My research applies stochastic modeling, economic analysis, and optimization methods to address challenges in urban transportation planning and decision-making. My work focuses on developing analytical and algorithmic approaches to support more efficient, intelligent, sustainable, and resilient transportation systems.
 
