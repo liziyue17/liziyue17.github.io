@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Appointments
+======
+* Postdoctoral Researcher, Tilburg University, 2026 - present
+* Postdoctoral Researcher (Courtesy), Florida State University, 2026 - present
+
+
 Education background
 ======
 * **Ph.D in Civil Engineering**, Florida State University, 2026
