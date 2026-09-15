@@ -12,22 +12,22 @@ redirect_from:
 
 Professional Associations
 ======
-* Natural Hazards Engineering Research Infrastructure Graduate Student Council (NHERI GSC) Member (Feb. 2026 - present)
-* NSF Transforming Urban Underground Infrastructure (TUUI) Collaborative Member (Dec. 2025 - present)
-* Transportation Research Board (TRB) Student Member (Oct. 2025 - present)
-* International Transportation Economics Association (ITEA) Student Member (Apr. 2025 - present)
-* INFORMS Transportation Science & Logistics (TSL) Society Student Member (Jul. 2024 - present)
+* Natural Hazards Engineering Research Infrastructure Graduate Student Council (NHERI GSC) Member
+* NSF Transforming Urban Underground Infrastructure (TUUI) Collaborative Member
+* Transportation Research Board (TRB) Student Member
+* International Transportation Economics Association (ITEA) Student Member
+* INFORMS Transportation Science & Logistics (TSL) Society Student Member
 
 
   
 Reviewer Service
 ======
-* Safety Science (Jan. 2026 - present)
-* COTA International Conference of Transportation Professionals (CICTP) Conference (Dec. 2025 - present)
-* Transportation Research Part B: Methodological (Oct. 2025 - present)
-* Computational Urban Science (Sep. 2025 - present)
-* Transportation Research Board (TRB) Annual Meeting (Aug. 2025 - present)
-* Bridging Transportation Researchers (BTR) Conference (May. 2025 - present)
+* Safety Science
+* COTA International Conference of Transportation Professionals (CICTP) Conference
+* Transportation Research Part B: Methodological
+* Computational Urban Science
+* Transportation Research Board (TRB) Annual Meeting
+* Bridging Transportation Researchers (BTR) Conference
 
 
 Media Coverage

@@ -17,21 +17,7 @@ I have a deep passion for traveling, especially hiking and exploring nature. I f
 
 You can also find my travel posts on [blogger](https://liziyue17.blogspot.com/). Feel free to reach out at *liziyue567 [at] gmail [dot] com* if you're interested in traveling together!
 
-<!-- * Big bend national park, 12/21/2024
 
-![Big bend national park](/images/travel/big_bend.jpg)
-
-* Great smoky national park, 11/29/2024
-
-![Great smoky national park](/images/travel/great_smoky.jpg)
-
-* Olympic national park, 10/19/2024
-
-![Olympic national park](/images/travel/olympic_np.jpg)
-
-* Mount Blue Sky (Mt. Evans), 8/17/2024
-
-![Mount Blue Sky](/images/travel/colorado.jpg) -->
 
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 10px;">
