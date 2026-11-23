@@ -18,6 +18,7 @@ Jounral Articles
 
 ## Published
 
+* Niu, Z., Qiao, Z., Li, A., Jiao, F., **Li, Z.**, & Pan, Y. A. (2026). A hybrid Lagrangian-relaxation framework for drone-based facility location decisions. *Symmetry*, *18(11)*, 1845.
 * **Li, Z.**, Guo, Q., & Schonfeld, P. (2025). Joint optimization of capacity expansion timing and increment in airport terminals: Addressing stochastic demand and logistic growth. *Transportation Research Part C: Emerging Technologies*, *180*, 105347. [paper](https://doi.org/10.1016/j.trc.2025.105347)
 * **Li, Z.**, Chow, J. Y., & Guo, Q. (2025). Runway capacity expansion planning for public airports under demand uncertainty. *Journal of Air Transport Management*, *128*, 102824. [paper](https://doi.org/10.1016/j.jairtraman.2025.102824)
 * **Li, Z.**, & Guo, Q. (2025). Vehicle occupancy estimation in Automated Guideway Transit via deep learning with Wi-Fi probe requests. *Journal of Intelligent Transportation Systems*, 1-19. [paper](https://doi.org/10.1080/15472450.2025.2499590)
@@ -48,6 +49,15 @@ Technical Reports
  
 Conference Presentations
 ======
+* **Li, Z.**, Fazi, S., & Spiliotopoulou, E. (2027, April). Strategic Interactions and Incentive Design in Freight Mobility as a Service (FMaaS). Accepted for presentation at *the POMS Annual Conference*, Orlando, FL, USA.
+
+* **Li, Z.**, Yin, Y., & Schonfeld, P. (2027, January 12). Transit technology investment under stochastic demand growth: How future upgrade options change initial technology choices. Accepted for presentation at *the 106th TRB Annual Meeting*, Washington, D.C., USA.
+
+* Hasan, M. M., Marcil R., **Li, Z.**, & Guo, Q. (2027, January 11). A multidimensional analysis of post-pandemic airport recovery in the United States. Accepted for presentation at *the 106th TRB Annual Meeting*, Washington, D.C., USA.
+
+* **Li, Z.**, & Schonfeld, P. (2027, January 11). Sequential rail extension decisions under demand uncertainty: A real option approach. Accepted for presentation at *the 106th TRB Annual Meeting*, Washington, D.C., USA.
+
+* **Li, Z.** (2026, November 1). Capacity expansion under uncertainty: The role of present-biased decision making. Presented at *INFORMS Annual Meeting*, San Francisco, CA, USA.
 * **Li, Z.**, & Guo, Q. (2026, July 26). Airport capacity expansion under demand uncertainty and present-biased decisions. Accepted for presentation at the *2026 Transportation Science and Logistics (TSL) Conference*, Boston, MA, USA.
 * **Li, Z.**, & Guo, Q. (2026, June 8). Airport capacity expansion under demand uncertainty and present-biased decisions. Presented at the *2026 TRB Symposium on Aviation Innovation and Research*, Dayton, OH, USA.
 * **Li, Z.**, Udekwe, D., & Guo, Q. (2026, January 13). A two-stage restoration approach for road networks after disruptive natural disasters. Presented at the *105th TRB Annual Meeting*, Washington, D.C., USA.

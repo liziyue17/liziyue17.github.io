@@ -12,16 +12,19 @@ redirect_from:
 
 Professional Associations
 ======
-* Natural Hazards Engineering Research Infrastructure Graduate Student Council (NHERI GSC) Member
-* NSF Transforming Urban Underground Infrastructure (TUUI) Collaborative Member
-* Transportation Research Board (TRB) Student Member
-* International Transportation Economics Association (ITEA) Student Member
-* INFORMS Transportation Science & Logistics (TSL) Society Student Member
+* Beta Research School for Operations Management and Logistics
+* BUILD (Better Urbanism, Infrastructure, and Land-use Decisions) Research Network
+* Airline Group of the International Federation of Operational Research Societies (AGIFORS)
+* NSF Transforming Urban Underground Infrastructure (TUUI) Collaborative
+* Transportation Research Board (TRB)
+* International Transportation Economics Association (ITEA)
+* INFORMS Transportation Science & Logistics (TSL) Society
 
 
   
 Reviewer Service
 ======
+* Transport Policy
 * Safety Science
 * COTA International Conference of Transportation Professionals (CICTP) Conference
 * Transportation Research Part B: Methodological
